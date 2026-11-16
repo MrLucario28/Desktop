@@ -1,0 +1,46 @@
+Productor 1 depositó 100 en la posición 0
+    Consumidor 1 retiró 100 de la posición 0
+Productor 2 depositó 200 en la posición 1
+    Consumidor 2 retiró 200 de la posición 1
+Productor 1 depositó 101 en la posición 2
+    Consumidor 1 retiró 101 de la posición 2
+Productor 2 depositó 201 en la posición 3
+Productor 2 depositó 202 en la posición 4
+Productor 1 depositó 102 en la posición 0
+    Consumidor 1 retiró 201 de la posición 3
+Productor 2 depositó 203 en la posición 1
+    Consumidor 2 retiró 202 de la posición 4
+Productor 1 depositó 103 en la posición 2
+Productor 2 depositó 204 en la posición 3
+    Consumidor 2 retiró 102 de la posición 0
+Productor 2 depositó 205 en la posición 4
+Productor 1 depositó 104 en la posición 0
+    Consumidor 1 retiró 203 de la posición 1
+Productor 2 depositó 206 en la posición 1
+    Consumidor 1 retiró 103 de la posición 2
+Productor 1 depositó 105 en la posición 2
+    Consumidor 2 retiró 204 de la posición 3
+Productor 2 depositó 207 en la posición 3
+    Consumidor 2 retiró 205 de la posición 4
+Productor 2 depositó 208 en la posición 4
+    Consumidor 1 retiró 104 de la posición 0
+Productor 1 depositó 106 en la posición 0
+    Consumidor 1 retiró 206 de la posición 1
+Productor 1 depositó 107 en la posición 1
+    Consumidor 1 retiró 105 de la posición 2
+Productor 2 depositó 209 en la posición 2
+Productor 2 terminó.
+    Consumidor 2 retiró 207 de la posición 3
+Productor 1 depositó 108 en la posición 3
+    Consumidor 2 retiró 208 de la posición 4
+Productor 1 depositó 109 en la posición 4
+Productor 1 terminó.
+    Consumidor 1 retiró 106 de la posición 0
+    Consumidor 2 retiró 107 de la posición 1
+    Consumidor 2 retiró 209 de la posición 2
+    Consumidor 1 retiró 108 de la posición 3
+    Consumidor 1 terminó.
+    Consumidor 2 retiró 109 de la posición 4
+    Consumidor 2 terminó.
+
+Fin: se produjeron y consumieron 20 elementos.
