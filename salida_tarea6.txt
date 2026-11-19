@@ -1,0 +1,37 @@
+    Filósofo 0 está PENSANDO
+    Filósofo 3 está PENSANDO
+    Filósofo 4 está PENSANDO
+    Filósofo 1 está PENSANDO
+    Filósofo 2 está PENSANDO
+Filósofo 1 está COMIENDO
+Filósofo 3 está COMIENDO
+    Filósofo 1 está PENSANDO
+Filósofo 0 está COMIENDO
+    Filósofo 0 está PENSANDO
+    Filósofo 3 está PENSANDO
+Filósofo 2 está COMIENDO
+    Filósofo 2 está PENSANDO
+Filósofo 1 está COMIENDO
+Filósofo 3 está COMIENDO
+    Filósofo 3 está PENSANDO
+Filósofo 0 está COMIENDO
+Filósofo 2 está COMIENDO
+    Filósofo 1 está PENSANDO
+    Filósofo 0 está PENSANDO
+Filósofo 4 está COMIENDO
+    Filósofo 4 está PENSANDO
+    Filósofo 2 está PENSANDO
+Filósofo 1 está COMIENDO
+Filósofo 3 está COMIENDO
+Filósofo 1 terminó sus 3 rondas.
+Filósofo 3 terminó sus 3 rondas.
+Filósofo 2 está COMIENDO
+Filósofo 4 está COMIENDO
+    Filósofo 4 está PENSANDO
+Filósofo 0 está COMIENDO
+Filósofo 0 terminó sus 3 rondas.
+Filósofo 4 está COMIENDO
+Filósofo 2 terminó sus 3 rondas.
+Filósofo 4 terminó sus 3 rondas.
+
+Fin: todos los filósofos terminaron sin bloqueo mutuo.
